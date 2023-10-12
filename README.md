@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenechi Obiozor
 - 👀 I’m interested in Information Technology/Cybersecurity
 - 🌱 I’m currently interested in learning new things in the field
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on any project to learn more.
 - 📫 How to reach me kenechi596@gmail.com
 
 <!---
